@@ -7,3 +7,5 @@ docs/source/_build/
 # Silly mac osx files
 .DS_Store
 
+# IDE config files
+.vscode
